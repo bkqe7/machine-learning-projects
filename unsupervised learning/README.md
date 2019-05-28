@@ -5,11 +5,11 @@ have the highest expected rate of returns.
 
 ## Installation
 The packages used are:
-Numpy
-Pandas
-Scikit-learn
-Matplotlib
-Seaborn
+- Numpy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
 
 ## Files and How to Use
 Identify_Customer_Segments.ipynb contains preprocessing missing values, feature engineering and scaling, PCA to perform dimensionality 
